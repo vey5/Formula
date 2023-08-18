@@ -1,0 +1,17 @@
+.text {
+  display: flex;
+  gap: 1px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.inputCount {
+  width: 100px;
+}
+
+.inputScore {
+  width: 100px;
+}
+
+.inputTotal {
+  width: 50px;
+}

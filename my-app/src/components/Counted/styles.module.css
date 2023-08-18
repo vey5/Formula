@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  border: 17px solid lightgray;
+  background-color: lightgray;
+  margin-bottom: 5px;
+}
+
+.inputCount {
+  border-radius: 2px;
+  border: transparent;
+  width: 70px;
+  height: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.btnCount {
+  border-radius: 2px;
+  border: transparent;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.inputScore {
+  border-radius: 2px;
+  border: transparent;
+  width: 70px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
