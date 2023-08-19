@@ -1,7 +1,7 @@
 import styles from './styles.module.css'
 
 
-function Counted(props) {
+function InputContainer(props) {
 
   return (
     <div className={styles.wrapper}>
@@ -11,4 +11,4 @@ function Counted(props) {
   );
 }
 
-export default Counted;
+export default InputContainer;
